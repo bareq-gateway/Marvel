@@ -3,7 +3,7 @@ Marvel app is an android app that allow you to search for Marvel Characters and 
 
 ## The Assignment
 
-The assignment you're about to tackle is a simple application, you'll be building 3 screens application to seaarch for marvel characters, use Jetpack Compose or XML to build the UI (you can find all information about design in the next section).
+The assignment you're about to tackle is a simple application, you'll be building 3 screens application to seaarch for marvel characters, use Jetpack Compose (Recommended) or XML (if you are not experienced with compose) to build the UI (you can find all information about design in the next section).
 
 Please use the following Tech-Stack to build the app:
 - MVVM.
